@@ -18,7 +18,7 @@ class Box{
         rotate(angle);
         rectMode(CENTER);
         
-        fill("green");
+        fill("orange");
         rect(0,0,this.width,this.height)
         pop();}
         
