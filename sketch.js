@@ -89,7 +89,7 @@ function setup() {
 }
 
 function draw() {
- background=(bg);
+ background=("black");
   Engine.update(engine);
 
   ground.display();
