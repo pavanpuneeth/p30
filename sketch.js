@@ -123,10 +123,10 @@ function draw() {
   polygon.display();
   slingshot.display();
 
-  fill("white");
-  stroke("black");
-  textSize(20)
-  textFont("Algerian");
+ //fill("white");
+  //stroke("black");
+  //textSize(20)
+  //textFont("Algerian");
   //text("Drag the Hexagon and Release it to destroy the arrangement of blocks",10,20);
   //text("Press Space To get another Chance to Play",400,380);
   
