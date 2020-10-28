@@ -31,8 +31,8 @@ var bg;
 
 function preload() 
   {
-    polygonImg = loadImage("hexagon.png");
-    bg = loadImage("star.jpg");
+   // polygonImg = loadImage("hexagon.png");
+    //bg = loadImage("star.jpg");
 
 
   }
