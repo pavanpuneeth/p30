@@ -127,8 +127,8 @@ function draw() {
   stroke("black");
   textSize(20)
   textFont("Algerian");
-  text("Drag the Hexagon and Release it to destroy the arrangement of blocks",10,20);
-  text("Press Space To get another Chance to Play",400,380);
+  //text("Drag the Hexagon and Release it to destroy the arrangement of blocks",10,20);
+  //text("Press Space To get another Chance to Play",400,380);
   
   drawSprites();
 }
