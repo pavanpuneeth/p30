@@ -30,7 +30,9 @@ var slingshot;
 var bg;
 
 function preload() 
-{}
+{
+ bg = loadImage("bg.png");
+}
 
 function setup() {
   createCanvas(900,400);
@@ -87,7 +89,7 @@ function setup() {
 }
 
 function draw() {
- background=(black);
+ background=(bg);
   Engine.update(engine);
 
   ground.display();
